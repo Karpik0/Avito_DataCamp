@@ -1,4 +1,4 @@
-# Bot Detection - Avito Anti-Scraper Challenge
+# Avito datacamp тестовое
 
 Задача: по событиям внутри суточного окна присвоить каждой `cookie_id` score от 0 до 1, где 1 - трафик сервисов автоматизированного сбора данных.
 
